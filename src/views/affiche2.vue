@@ -31,66 +31,6 @@
           <source src="../assets/video-2.mp4" type="video/mp4" />
         </video>
       </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
-        </video>
-      </div>
-      <div class="card-deo">
-        <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
-        </video>
-      </div>
     </div>
   </div>
 </template>
