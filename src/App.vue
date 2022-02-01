@@ -4,7 +4,7 @@
     <router-link to="/affiche1">Affiche 1</router-link> |
     <router-link to="/affiche2">Affiche 2</router-link>
   </div>
-  <router-view/>
+  <router-view />
 </template>
 
 <style>
