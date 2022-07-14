@@ -3,32 +3,42 @@
     <div class="container">
       <div class="card-deo">
         <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
+          <source src="../assets/jolixi-deo-1.webm" type="video/webm" />
         </video>
       </div>
       <div class="card-deo">
         <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
+          <source src="../assets/jolixi-deo-2.webm" type="video/webm" />
         </video>
       </div>
       <div class="card-deo">
         <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
+          <source src="../assets/jolixi-deo-1.webm" type="video/webm" />
         </video>
       </div>
       <div class="card-deo">
         <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
+          <source src="../assets/jolixi-deo-2.webm" type="video/webm" />
         </video>
       </div>
       <div class="card-deo">
         <video autoplay loop muted>
-          <source src="../assets/video-1.mp4" type="video/mp4" />
+          <source src="../assets/jolixi-deo-1.webm" type="video/webm" />
         </video>
       </div>
       <div class="card-deo">
         <video autoplay loop muted>
-          <source src="../assets/video-2.mp4" type="video/mp4" />
+          <source src="../assets/jolixi-deo-2.webm" type="video/webm" />
+        </video>
+      </div>
+      <div class="card-deo">
+        <video autoplay loop muted>
+          <source src="../assets/jolixi-deo-1.webm" type="video/webm" />
+        </video>
+      </div>
+      <div class="card-deo">
+        <video autoplay loop muted>
+          <source src="../assets/jolixi-deo-2.webm" type="video/webm" />
         </video>
       </div>
     </div>

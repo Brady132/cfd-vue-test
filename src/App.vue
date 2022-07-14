@@ -18,7 +18,7 @@
 
 #nav {
   padding: 30px;
-  background-color: goldenrod;
+  background-color: #0DABE3;
 }
 
 #nav a {

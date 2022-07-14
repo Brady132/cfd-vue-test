@@ -1,6 +1,7 @@
 <template>
   <div class="box">
     <h1>Bienvenue 👋</h1>
+    <p>Sur la page du test</p>
   </div>
 </template>
 

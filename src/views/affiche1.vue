@@ -19,6 +19,12 @@
       <div class="card-image">
         <img src="../assets/pexels-justyna-serafin-10035617.jpg" alt="img2" />
       </div>
+      <div class="card-image">
+        <img src="../assets/pexels-daria-zlatkina-10007896.jpg" alt="img1" />
+      </div>
+      <div class="card-image">
+        <img src="../assets/pexels-justyna-serafin-10035617.jpg" alt="img2" />
+      </div>
     </div>
   </div>
 </template>
